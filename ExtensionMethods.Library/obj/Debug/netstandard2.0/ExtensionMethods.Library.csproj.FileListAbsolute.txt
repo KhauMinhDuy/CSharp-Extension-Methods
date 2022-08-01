@@ -1,0 +1,10 @@
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\bin\Debug\netstandard2.0\ExtensionMethods.Library.deps.json
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\bin\Debug\netstandard2.0\ExtensionMethods.Library.dll
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\bin\Debug\netstandard2.0\ExtensionMethods.Library.pdb
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.csproj.AssemblyReference.cache
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.AssemblyInfoInputs.cache
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.AssemblyInfo.cs
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.csproj.CoreCompileInputs.cache
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.dll
+D:\C#\SourceCode\CSharp_Extension_Method\ExtensionMethods.Library\obj\Debug\netstandard2.0\ExtensionMethods.Library.pdb
