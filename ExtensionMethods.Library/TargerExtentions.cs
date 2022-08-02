@@ -6,9 +6,14 @@ namespace ExtensionMethods.Library
 {
     public static class TargerExtentions
     {
-        internal static void ExtendInternal(this InternalTarget target)
-        {
+        //internal static void ExtendInternal(this InternalTarget target)
+        //{
 
+        //}
+
+        public static string GetStandardizedId(this Target target)
+        {
+            return target.getId().ToUpper();
         }
     }
 }
