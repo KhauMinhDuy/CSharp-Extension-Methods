@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ExtensionMethods.Library\ExtensionMethods.Library.csproj" />
+    <ProjectReference Include="..\ExtensionMethods.Shared\ExtensionMethods.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>
